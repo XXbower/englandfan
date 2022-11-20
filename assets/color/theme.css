@@ -53,7 +53,7 @@ header a:hover,
 .doc_lan li a:hover span i,
 .tab_nav_s2 li.nav-item a.active, 
 .tab_nav_s2 li.nav-item a:hover {
-	color: #ff0000;
+	color: #ef4444;
 }
 .pr_box h6,
 .chart_list_info li p span,
@@ -87,7 +87,7 @@ header a:hover,
 .timeline_box.complete::before,
 .timeline_box.current .timeline_inner,
 .timeline .owl-nav i:hover {
-	background-color: #ff0000;
+	background-color: #ef4444;
 }
 .roadmap_box.current .roadmap_inner::before,
 .timeline_box.current .timeline_inner::before {
@@ -95,7 +95,7 @@ header a:hover,
 }
 .btn-default {
 	background-image: -webkit-linear-gradient(left, #f29fa6 0%,#a21334 51%,#f29fa6);
-	background-image: linear-gradient(to right, #f29fa6 0%,#a21334 51%,#f29fa6);
+	background-image: linear-gradient(to right, #c30616 0%,#ef4444 51%,#dd4451);;
 }
 .btn-default.active.focus, 
 .btn-default.active:focus, 
@@ -152,5 +152,5 @@ button,
 .video_wrap::before,
 .tab_nav_s4 li.nav-item a.active,
 .timeline_box.complete .timeline_circle::before {
-	border-color: #ff0000;
+	border-color: #ef4444;
 }
