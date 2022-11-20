@@ -53,7 +53,7 @@ header a:hover,
 .doc_lan li a:hover span i,
 .tab_nav_s2 li.nav-item a.active, 
 .tab_nav_s2 li.nav-item a:hover {
-	color: #0068FF;
+	color: #ff0000;
 }
 .pr_box h6,
 .chart_list_info li p span,
@@ -87,15 +87,15 @@ header a:hover,
 .timeline_box.complete::before,
 .timeline_box.current .timeline_inner,
 .timeline .owl-nav i:hover {
-	background-color: #0068FF;
+	background-color: #ff0000;
 }
 .roadmap_box.current .roadmap_inner::before,
 .timeline_box.current .timeline_inner::before {
 	border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #fff;
 }
 .btn-default {
-	background-image: -webkit-linear-gradient(left, #cc00ff 0%,#1300FF 51%,#cc00ff);
-	background-image: linear-gradient(to right, #cc00ff 0%,#1300FF 51%,#cc00ff);
+	background-image: -webkit-linear-gradient(left, #f29fa6 0%,#a21334 51%,#f29fa6);
+	background-image: linear-gradient(to right, #f29fa6 0%,#a21334 51%,#f29fa6);
 }
 .btn-default.active.focus, 
 .btn-default.active:focus, 
@@ -108,8 +108,8 @@ header a:hover,
 .btn-default:focus,
 .btn.active:not(:disabled):not(.disabled), 
 .btn:active:not(:disabled):not(.disabled) {
-	background-image: -webkit-linear-gradient(left, #1300FF 0%,#cc00ff 51%,#1300FF);
-	background-image: linear-gradient(to right, #1300FF 0%,#cc00ff 51%,#1300FF);
+	background-image: -webkit-linear-gradient(left, #a21334 0%,#f29fa6 51%,#a21334);
+	background-image: linear-gradient(to right, #a21334 0%,#f29fa6 51%,#a21334);
 }
 .btn-border,
 .btn.btn-border:hover,
@@ -124,24 +124,24 @@ header a:hover,
 .btn.btn-border:focus,
 .doc_dropdown > a, .doc_dropdown > a:hover,
 .doc_dropdown .dropdown-menu {
-	background-image: -webkit-linear-gradient(left, #1300FF 0%,#cc00ff 99%);
-	background-image: linear-gradient(to right, #1300FF 0%,#cc00ff 99%);
+	background-image: -webkit-linear-gradient(left, #a21334 0%,#f29fa6 99%);
+	background-image: linear-gradient(to right, #a21334 0%,#f29fa6 99%);
 }
 button,
 .team_img.gradient_box::before,
 .team_pop .progress-bar,
 .tk_counter_inner .progress-bar.gradient,
 .faq_content4 .card-header a::after {
-	background-image: -webkit-linear-gradient(left, #cc00ff 0%,#1300FF 99%);
-	background-image: linear-gradient(to right, #cc00ff 0%,#1300FF 99%);
+	background-image: -webkit-linear-gradient(left, #f29fa6 0%,#a21334 99%);
+	background-image: linear-gradient(to right, #f29fa6 0%,#a21334 99%);
 }
 .gradient_box {
-	background-image: -webkit-linear-gradient(left, #cc00ff 0%,#1300FF 99%) !important;
-	background-image: linear-gradient(to right, #cc00ff 0%,#1300FF 99%) !important;
+	background-image: -webkit-linear-gradient(left, #f29fa6 0%,#a21334 99%) !important;
+	background-image: linear-gradient(to right, #f29fa6 0%,#a21334 99%) !important;
 }
 .team_social_s2 {
-	background-image: -webkit-linear-gradient(top, #cc00ff 0%,#1300FF 99%);
-	background-image: linear-gradient(to bottom, #cc00ff 0%,#1300FF 99%);
+	background-image: -webkit-linear-gradient(top, #f29fa6 0%,#a21334 99%);
+	background-image: linear-gradient(to bottom, #f29fa6 0%,#a21334 99%);
 }
 .dl_lan li a {
 	border-color: #ffcc68;
@@ -152,5 +152,5 @@ button,
 .video_wrap::before,
 .tab_nav_s4 li.nav-item a.active,
 .timeline_box.complete .timeline_circle::before {
-	border-color: #0068FF;
+	border-color: #ff0000;
 }
